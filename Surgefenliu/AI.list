@@ -1,4 +1,5 @@
-# Google-Gemini: 15
+# Google-Gemini: 18
+DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,aistudio.google.com
 DOMAIN,ai.google.dev
@@ -11,6 +12,9 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.googleusercontent.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,waa-pa.googleapis.com
+DOMAIN-SUFFIX,alkalinetoolkit-pa.googleapis.com
 DOMAIN-SUFFIX,ai.google
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,generativeai
